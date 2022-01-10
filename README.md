@@ -1,8 +1,6 @@
 Status Message
 ==============
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/near-examples/rust-status-message)
-
 <!-- MAGIC COMMENT: DO NOT DELETE! Everything above this line is hidden on NEAR Examples page -->
 
 This smart contract saves and records the status messages of NEAR accounts that call it.
